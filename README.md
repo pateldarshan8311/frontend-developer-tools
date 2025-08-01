@@ -1,4 +1,4 @@
-# Portfolio React
+# frontend-developer-tools
 
 This is a modern, responsive portfolio website built using **Wordpress**, **React.js**, **Tailwind CSS**, and **Framer Motion**. It showcases my frontend development skills and includes animated sections, contact form integration, and smooth navigation.
 
